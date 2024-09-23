@@ -149,5 +149,9 @@ header img{
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__links__navegacao {
+        width: 70%;
+    }
 }
 
